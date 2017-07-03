@@ -1,4 +1,4 @@
-# Client Code - Snippers
+# Client Code - Snippets
 These are snippets of code that make the app work.
 
 # Background
